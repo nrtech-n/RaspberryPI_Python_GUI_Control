@@ -1,9 +1,5 @@
 ## Basic Robot Control GUI
 
-### Basic example for controlling the GoPiGo using the Keyboard and a GUI on VNC
-
-Contributed by casten on Gitub https://github.com/DexterInd/GoPiGo/pull/112
-
 **Control:**
 
 - w:	Move forward
